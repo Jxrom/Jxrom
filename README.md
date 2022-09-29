@@ -7,8 +7,8 @@
 - 📫 How to reach me: jeromemarbebe@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a big fan of Dota
-<br />
 
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -17,6 +17,8 @@
 
 <br />
 
+📺 Youtube: https://www.youtube.com/channel/UCBc8Eh5FK9pU0gV_7KeCAvw
+🔧 TinkerCAD: https://www.tinkercad.com/users/9WxbY1AYeqi
 
 <!--
 **Jxrom/Jxrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
