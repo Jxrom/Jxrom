@@ -1,6 +1,6 @@
 ### Hello World, I'm Jerome 👋
 
- <img align="right" alt="GIF" src="https://github.com/Jxrom/Jxrom/blob/main/android-11-turtle-emoji-removebg-preview.png" width="500" height="350" />
+ <img align="top" alt="CUTETURTLE" src="https://github.com/Jxrom/Jxrom/blob/main/android-11-turtle-emoji-removebg-preview.png" width="500" height="320" />
 
 ## I'm a Developer and Creator
 - 🔭 I’m currently working on my Bachelor's Degree in Computer Engineering at Technological Institute of the Philippines
