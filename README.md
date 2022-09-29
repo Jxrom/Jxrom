@@ -1,6 +1,6 @@
 ### Hello World, I'm Jerome 👋
 
-## I'm Developer and Creator
+## I'm a Developer and Creator
 - 🔭 I’m currently working on my Bachelor's Degree in Computer Engineering at Technological Institute of the Philippines
 - 🌱 I’m currently learning Python Programming, Computer Networking and Data Science
 - 💬 Ask me about ... Anything
