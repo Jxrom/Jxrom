@@ -8,6 +8,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a big fan of Dota
 
+[youtube] https://www.youtube.com/channel/UCBc8Eh5FK9pU0gV_7KeCAvw
 <!--
 **Jxrom/Jxrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
