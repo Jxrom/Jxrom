@@ -8,7 +8,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: jeromemarbebe@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a big fan of Dota
+- ⚡ Fun fact: I'm a big fan of The Script
 
 ### Languages and Tools:
 
