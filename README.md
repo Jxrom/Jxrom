@@ -2,9 +2,7 @@
 
  <img align="right" alt="CUTETURTLE" src="https://github.com/Jxrom/Jxrom/blob/main/android-11-turtle-emoji-removebg-preview.png" width="400" height="220" />
 
-## I'm a Developer 
-- 🔭 I’m currently working on my Bachelor's Degree in Computer Engineering at Technological Institute of the Philippines
-- 🌱 I’m currently learning Python Programming, Computer Networking and Data Science
+## I'm a Computer Engineer | Software Developer 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: jeromemarbebe@gmail.com
 - 😄 Pronouns: He/His
